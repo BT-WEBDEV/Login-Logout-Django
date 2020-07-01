@@ -1,6 +1,6 @@
 # Login-Logout-Django
 
-Case Use: Simple login/logout example using Django that can be utilized for additional future projects. Login/logout is a staple of web applications, so its important to utilize this. 
+Case Use: Simple login/logout project using Django that can be utilized for additional future projects. Login/logout is a staple of web applications, so its important to utilize this. This code could be used to bootstrap a future application. 
 
 PLEASE READ THIS FIRST - To utilize this code, you will need to use Django along with Python. 
 
